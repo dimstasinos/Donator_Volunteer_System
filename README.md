@@ -1,6 +1,6 @@
 # Donator Volunteer System
 
-This project simulates the operation of a humanitarian organization where users can register as **Donators**, **Beneficiaries**, or **Admin**. It allows the management of material and service donations, handles user requests, and enforces access control and constraints based on user roles.
+This project simulates the operation of a humanitarian organization where users can register as **Donators**, **Beneficiaries**, or **Admin**. It allows the management of material and service donations, handles user requests, and enforces access control and constraints based on user roles. The program is written in Java using object-oriented principles.
 
 ##  Features
 - Add/remove users and entities
